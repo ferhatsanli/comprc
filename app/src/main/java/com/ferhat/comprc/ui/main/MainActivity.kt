@@ -1,4 +1,4 @@
-package com.ferhat.comprc
+package com.ferhat.comprc.ui.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
